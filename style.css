@@ -1,0 +1,100 @@
+
+*{
+  line-height: 1.5;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Bubble_chat{
+    width: 375px;
+    height: 982px;
+    top: -2645px;
+    left: -1408px;
+    gap: 0px;
+    border-radius: 30px ;
+    border: 8px solid #374151;
+    opacity: 0px;
+    margin: 100px;
+}
+img{
+    width: 16px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px  solid rgba(128, 128, 128, 0.333);
+
+}
+.br{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    transform: translateX(-25px);
+}
+.ism{
+    transform: translate(-60px);
+}
+.vid{
+    transform: translate(30px);
+}
+.chat-text{
+    display: flex;
+    
+}
+.women{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+span{
+    color: rgb(190, 188, 188);
+}
+.icht{
+    transform: translate(10px,-15px);
+}
+.chat{
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.message{
+    width: 256px;
+    height: 221px;
+    background:  #e9ecee;
+    transform: translate(40px,-25px);
+    padding: 10px;
+    border-radius: 0 20px 20px 20px;
+}
+.yon{
+    transform: translate(45px,-35px);
+    color: rgba(128, 128, 128, 0.57);
+    
+}
+.nuqta{
+    transform: translate(270px,-120px) rotate(90deg);
+}
+.teskari{
+    transform: scalex(-1);
+}
+.past{
+    border-top: 1px solid #aaa8a8;
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   transform: translateY(130px);
+    
+}
+.past p{
+    width: 267px;
+    height: 37px;
+    border: 1px solid rgb(196, 193, 193);
+    border-radius: 7px;
+    margin:  10px;
+    display: flex;
+    padding-left: 10px;
+    align-items: center;
+}
+.past img{
+    width: 16px;
+    height: 16px;
+}
+
+
